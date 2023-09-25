@@ -48,13 +48,13 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 𝙈𝙚𝙩𝙝𝙤𝙙 - 1 : ᴠɪᴀ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴏɴ𝙨
 
-[![Deploy](https://www.heroku.com/deploy)](Heroku_Deployment.md
+[![Deploy](https://www.heroku.com/deploy)]
 
 
 
 𝙈𝙚𝙩𝙝𝙤𝙙 - 2 : ᴠɪᴀ ᴇᴅɪᴛɪɴɢ ʀᴇᴘᴏ ɴᴀᴍᴇ ᴀɴᴅ ʟɪɴᴋ
 
-[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://telegra.ph/Temporary-Heroku-Deployment-Method-for-MSGuite-CloneBot-11-23)
+[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://www.heroku.com/deploy)
 
 
 
